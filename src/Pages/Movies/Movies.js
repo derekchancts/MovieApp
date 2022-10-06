@@ -53,7 +53,6 @@ const Movies = () => {
       {PageTotal > 1 && (
         <CustomPagination page={page} setPage={setPage} PageTotal={PageTotal} />
       )}
-
     </>
   )
 }
