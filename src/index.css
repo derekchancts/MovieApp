@@ -1,3 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+/* @import "react-alice-carousel/lib/alice-carousel.css"; */
+
+:root {
+  --main-bg-color: #39445a;
+  --secondary-bg-color: #282c34;
+  /* --test-bg-color: red; */
+  --primary-text-color: white;
+  --selected-text-color: #1976d2;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',

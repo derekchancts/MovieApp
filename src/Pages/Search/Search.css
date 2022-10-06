@@ -1,0 +1,14 @@
+.search {
+  display: flex;
+  margin: 15px 0;
+}
+
+.tabs {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.tab {
+  width: 40%;
+}
